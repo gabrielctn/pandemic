@@ -1,13 +1,12 @@
-51
+48
 1200 800
 San Francisco	#	Bleue	# 	{ 105,280 }
-Chicago			#	Bleue	#	{ 203,249 }
+Chicago			#	Bleue	#	{ 211,249 }
 Montreal		#	Bleue	#	{ 288,243 }
 New York		#	Bleue	#	{ 350,259 }
 Atlanta			#	Bleue	#	{ 240,307 }
 Washington		#	Bleue	#	{ 325,304 }
-Montr�al        #   Bleue   #   { 340,304 }
-Londre			#	Bleue	#	{ 500,212 }
+Londres			#	Bleue	#	{ 511,212 }
 Essen			#	Bleue	#	{ 593,197 }
 Paris			#	Bleue	#	{ 570,249 }
 Madrid			#	Bleue	#	{ 492,287 }
@@ -30,15 +29,15 @@ Istanbul		# 	Noire	#	{ 656,278 }
 Moscou			# 	Noire	#	{ 725,234 }
 Le Caire		# 	Noire	#	{ 651,346 }
 Bagdad			# 	Noire	#	{ 719,317 }
-T�h�ran			# 	Noire	#	{ 781,274 }
+Teheran			# 	Noire	#	{ 781,274 }
 Riyad			# 	Noire	#	{ 730,383 }
 Karachi			# 	Noire	#	{ 795,340 }
 Delhi			# 	Noire	#	{ 860,325 }
 Mumbai			# 	Noire	#	{ 810,399 }
-Calcuta			# 	Noire	#	{ 920,337 }
+Calcutta		# 	Noire	#	{ 920,337 }
 Chennai			# 	Noire	#	{ 872,443 }
-P�kin			#	Rouge	#	{ 963,251 }
-S�oul			#	Rouge	#	{ 1037,249 }
+Pekin			#	Rouge	#	{ 963,251 }
+Seoul			#	Rouge	#	{ 1037,249 }
 Shanghai		#	Rouge	#	{ 969,308 }
 Tokyo			#	Rouge	#	{ 1102,277 }
 Hong Kong		#	Rouge	#	{ 980,369 }
@@ -49,8 +48,6 @@ Ho Chi Min		#	Rouge	#	{ 979,465 }
 Manille			#	Rouge	#	{ 1064,453 }
 Jakarta			#	Rouge	#	{ 932,513 }
 Sydney			#	Rouge	#	{ 1106,620 }
-Londres         #   Rouge   #   { 1000,500 }
-Calcutta        #   Rouge   #   { 700,550 }
 Los Angeles		##	Sydney
 Los Angeles		##	San Francisco
 Los Angeles		##	Chicago
@@ -79,11 +76,11 @@ San Francisco	##	Manille
 San Francisco	##	Tokyo
 San Francisco	##	Chicago
 Chicago			##	Atlanta
-Chicago			##	Montr�al
+Chicago			##	Montreal
 Atlanta			## 	Washington
-Washington		## 	Montr�al
+Washington		## 	Montreal
 Washington		## 	New York
-New York		##	Montr�al
+New York		##	Montreal
 New York		##	Londres
 New York		##	Madrid
 Londres			##	Essen
@@ -104,9 +101,9 @@ Alger	##	Le Caire
 Istanbul	##	Moscou
 Istanbul	##	Bagdad
 Istanbul	##	Le Caire
-T�h�ran	##	Moscou
-T�h�ran	##	Bagdad
-T�h�ran	##	Delhi
+Teheran	##	Moscou
+Teheran	##	Bagdad
+Teheran	##	Delhi
 Bagdad	##	Le Caire
 Bagdad	##	Riyad
 Bagdad	##	Karachi
@@ -122,10 +119,10 @@ Calcutta	## 	Bangkok
 Calcutta	## 	Hong Kong
 Chennai	##	Bangkok
 Chennai	##	Jakarta
-P�kin	##	S�oul
-P�kin	##	Shanghai
-S�oul 	##	Tokyo
-S�oul	##	Shanghai
+Pekin	##	Seoul
+Pekin	##	Shanghai
+Seoul 	##	Tokyo
+Seoul	##	Shanghai
 Shanghai	##	Tokyo
 Shanghai	##	Taipei
 Shanghai	##	Hong Kong
